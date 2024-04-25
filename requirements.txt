@@ -1,0 +1,4 @@
+twilio
+langchain
+openai
+python-dotenv
